@@ -1,5 +1,5 @@
 # AI-protein-design
-Code to reproduce the analyses contained in our manuscript "AI protein design enables rapid drug discovery and deimmunization". 
+Code to reproduce the results in our manuscript "AI protein design enables rapid drug discovery and deimmunization". 
 
 ## Installation
 
