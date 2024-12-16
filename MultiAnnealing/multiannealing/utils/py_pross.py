@@ -14,6 +14,8 @@ grid will work for PROSS. Give your choice as an argument (see USAGE below).
 
 Date: September 2004
 Author: Pat Fleming, pat.fleming@jhu.edu
+* Provided  under the MIT License, link below *
+https://github.com/ijstokes/pross/blob/master/LICENSE
 """
 
 USAGE = """
