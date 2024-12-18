@@ -1,6 +1,7 @@
 setuptools==60.0.1
 Bio==1.4.0
 evcouplings==0.2.1
+jupyterlab
 
 
 
