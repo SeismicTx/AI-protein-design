@@ -27,7 +27,7 @@ wget https://seismictx-public.s3.us-east-2.amazonaws.com/AI-protein-design/netmh
 wget https://seismictx-public.s3.us-east-2.amazonaws.com/AI-protein-design/netmhciipan/IdeS_48-391_demo_netMHCIIpan_EL.dill
 wget https://seismictx-public.s3.us-east-2.amazonaws.com/AI-protein-design/evcouplings/Q9F1R7_STRPY_48-391_b0.60_msc70_mcc50/couplings/Q9F1R7_STRPY_48-391_b0.60_msc70_mcc50.dill
 
-mkdir evcouplings
+mkdir data/evcouplings
 
 mv IdeS_48-391_demo_netMHCIIpan_BA.dill data/netmhciipan/
 mv IdeS_48-391_demo_netMHCIIpan_EL.dill data/netmhciipan/
